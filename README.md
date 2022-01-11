@@ -6,6 +6,7 @@ Follow Me:<br>
 Youtube :<a href="https://youtube.com/channel/UCFEmcI1LJKYXgD5_PQ4rm-Q">https://youtube.com/channel/UCFEmcI1LJKYXgD5_PQ4rm-Q</a><br>
 Facebook:<a href="https://facebook.com/alqnasfox">https://facebook.com/alqnasfox</a><br>
 Web Site:<a href="https://alqnasfox.blogspot.com">https://alqnasfox.blogspot.com/</a><br>
+Linkedin:<a href="https://www.linkedin.com/in/alqnasfox/">https://www.linkedin.com/in/alqnasfox/</a><br>
 </p>
 
 <!---
