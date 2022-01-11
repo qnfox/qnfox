@@ -1,4 +1,4 @@
-<h2>Mname Is mohammad abd almoneam</h2>
+<h2>My name Is mohammad abd almoneam</h2>
 <h3>Iam <strong>Webdevolper And Eithacl Hacker</strong></h3>
 <h4>programing lang : php,mysql,html,css,javascript,jquery,python,vue js</h4>
 <p>
